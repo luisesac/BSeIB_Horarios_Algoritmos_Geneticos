@@ -1,0 +1,2 @@
+# Abstract
+In the academic realm, scheduling issues have always existed due to the availability of certain professors on specific days or hours, to the extent that it can affect the academic performance of certain students due to external factors. The objective of this work is to find a schedule that fits within the time constraints previously established by a professor, considering both subjects without time restrictions and subjects with time restrictions using genetic algorithms.
